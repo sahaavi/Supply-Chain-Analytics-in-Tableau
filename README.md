@@ -6,12 +6,12 @@
 - Create a map visualization to display the distribution of customers across different customer markets.
 - Visualize customer country-wise sales using bar charts or treemaps.
 - Analyze number of customers over time.
-- Analyze customer loyalty and retention by visualizing customer ID count over time.
+- Analyze customer churn rate over time.
 
 ## Order Analysis:
 
 - Create a time series line chart to show the trend of order quantity over the years.
-- Analyze the order volume by month and day using bar charts or heat maps.
+- Analyze the order volume by month using bar charts or heat maps.
 - Visualize the distribution of order items by product department or category using tree maps or stacked bar charts.
 
 ## Product Analysis:
