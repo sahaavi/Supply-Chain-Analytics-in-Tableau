@@ -3,8 +3,9 @@
 
 ## Customer Analysis:
 
-- Create a map visualization to display the distribution of customers across different customer markets and regions.
+- Create a map visualization to display the distribution of customers across different customer markets.
 - Visualize customer country-wise sales using bar charts or treemaps.
+- Analyze number of customers over time.
 - Analyze customer loyalty and retention by visualizing customer ID count over time.
 
 ## Order Analysis:
